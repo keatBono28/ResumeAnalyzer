@@ -136,7 +136,7 @@ for item in resumeData:
 combinedListOfItems = zip(listOfNames, overallSentimentScore, businessAndFinanceScore, computerAndTechnologyScore, entertainmentAndSportsScore, medicalAndHealthCareScore, governmentAndPoliticsScore, architectureAndEngineeringScore, postProcessedResumeData)
 
 # finally, generate a csv file that has 2 column headings and then each row of data from combinedListOfItems
-with open('sentimentkb619814.csv', 'w', newline='') as myFile:
+with open('industryScores.csv', 'w', newline='') as myFile:
     writer = csv.writer(myFile)
     writer.writerow(('Applicant Name', 'Sentiment Score', 'Business and Finance Score', 'Computer & Technology Score', 'Entertainment & Sports Score', 'Medical & Health Care Score', 'Government & Politics Score', 'Architecture & Engineering Score: ', 'Resume Data'))
     for row in combinedListOfItems:
