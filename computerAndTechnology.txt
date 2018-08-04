@@ -1,0 +1,1048 @@
+@formula
+a
+a# (axiom)
+a# .net
+a+
+a++
+a-0 system
+abap
+abc
+abc algol
+abset
+absys
+acc
+accent
+access
+account
+ace dasl (distributed application specification language)
+acl2
+act-iii
+action!
+actionscript
+active server pages
+activity
+ada
+adenine
+administrative
+advantage
+advertisements
+agda
+agilent vee
+agora
+aimms
+aldor
+alef
+alf
+algol 58
+algol 60
+algol 68
+algol w
+alice
+alma-0
+ambienttalk
+amiga e
+aml (arc macro language)
+amos
+ampl
+angelscript
+animate
+apex (salesforce.com)
+apl
+app inventor for android's visual block language
+applescript
+applications
+apt
+arc
+arexx
+argus
+art
+art
+aspectj
+assembly language
+ateji px
+ats
+attachment
+audience
+autocoder
+autohotkey
+autoit
+autolisp / visual lisp
+averest
+awk
+axum
+b
+b
+babbage
+back 
+bandwidth
+banner
+bash
+basic
+basics
+batch (windows/dos)
+bc
+bcpl
+beanshell
+benefit
+bertrand
+beta
+bistro
+bliss
+blockly
+blog
+bloop
+bluetooth
+boo
+bookmarks
+boomerang
+boot
+bourne shell (including bash and ksh)
+bpel
+broadband
+browser
+bugs
+business basic
+bytes 
+c
+c--
+c shell (csh)
+c# – iso/iec 23270
+c/al
+c++ – iso/iec 14882
+caché objectscript
+cad
+calcpad
+cam
+camcorder
+camera
+caml
+capabilities
+capacity
+capture
+careers
+cayenne
+cd
+cduce
+cecil
+cellular
+cesil
+céu
+ceylon
+cfengine
+cg
+ch
+challenges
+chapel
+charity
+charm
+chill
+chip-8
+chips
+chomski
+chuck
+cilk
+citrine
+cl (ibm)
+claire
+clarion
+clean
+click
+clip
+clipper
+clips
+clist
+clojure
+clu
+cms exec (exec)
+cms-2
+cobol – iso/iec 1989
+cobolscript – cobol scripting language
+cobra
+codes
+coffeescript
+coldfusion
+comal
+combined programming language (cpl)
+comit
+common intermediate language (cil)
+common lisp (also known as cl)
+compass
+compilation
+complex
+component pascal
+computer
+comtran
+concerns
+conference
+connection
+connectivity
+constraint handling rules (chr)
+converge
+cookies
+cool
+copyright
+coq
+coral 66
+corvision
+cowsel
+cpl
+crash
+cryptol
+crystal
+csound
+csp
+cuda
+curl
+curriculum
+curry
+cursor
+cyberspace
+cybil
+cyclone
+cython
+d
+daemon
+dart
+darwin
+dasl (datapoint's advanced systems language)
+data
+database
+dataflex
+datalog
+datatrieve
+dax (data analysis expressions)
+dbase
+dc
+dcl
+debug
+decipher
+default
+delivery
+delphi
+dependency
+design
+designation
+desk
+desktop
+develop
+dibol
+digital
+dinkc
+direction
+disadvantage
+disk
+disk
+disk
+display
+distance 
+dog
+domain
+domain 
+download
+draco
+drag
+drakon
+drive
+drive 
+dylan
+dynamo
+e
+ease
+easy pl/i
+easytrieve plus
+ec
+ecmascript
+edinburgh imp
+edit
+educate
+effective
+efficiency
+efficient
+egl
+eiffel
+elan
+electronic
+electronics
+elements
+elixir
+elm
+emacs lisp
+e-mail
+emerald
+emerging
+encapsulate
+engage
+engine
+enhancement
+enrichment
+epigram
+epl (easy programming language)
+epl (eltron programming language)
+erlang
+es
+escape
+escher
+espol
+esterel
+ethernet
+etoys
+euclid
+euler
+euphoria
+euslisp robot programming language
+evaluate
+exact
+exec 2
+executable uml
+execute
+exemplary
+explore
+exposure
+f
+f#
+f*
+facebook
+factor
+falcon
+fantom
+faust
+fax
+ffp
+fiber 
+field
+file
+film
+firewalls
+fjölnir
+fl
+flavors
+flex
+flexibility
+floop
+floppy 
+flow-matic
+focal
+focus
+focus
+foil
+font
+formac
+format
+forth
+fortran – iso/iec 1539
+fortress
+foxbase
+foxpro
+fp
+franz lisp
+freeware
+frege
+f-script
+function 
+g
+game maker language
+gamemonkey script
+gams
+gap
+g-code
+gdl
+gdscript
+geek
+generate
+genie
+george
+gif
+gj
+glsl
+gm
+gnu e
+go
+go!
+goal
+gödel
+golo
+gom (good old mad)
+google apps script
+gosu
+gotran
+gpss
+gradual
+graphics
+graphtalk
+grass
+grid
+groovy
+hack
+hackers
+haggis
+hal/s
+halide (programming language)
+hamilton c shell
+hand-held
+harbour
+hard 
+hard 
+hardware
+hartmann pipelines
+haskell
+haxe
+help 
+hermes
+hexa
+high level assembly
+history
+hits
+hlsl
+home
+hop
+hope
+hopscotch
+host
+house
+hugo
+hume
+hypertalk
+hypertext
+ibm basic assembly language
+ibm basica
+ibm hascript
+ibm informix-4gl
+ibm rpg
+icon (programming language)
+icons
+idl
+infiltrate
+information
+informative
+innovation
+innovative
+input
+instant
+instruction
+integrate
+interface
+internet
+intranet
+investigate
+involve
+io
+ipad
+issues
+j
+j#
+j++
+jade
+jal
+janus (concurrent constraint programming language)
+janus (time-reversible computing programming language)
+jass
+java
+javafx script
+javascript
+jcl
+jean
+job
+join
+join java
+joss
+joule
+journalism
+journalist
+jovial
+joy
+joystick
+jpeg
+jq
+jscript
+jscript .net
+julia
+junkmail
+jython
+k
+kaleidoscope
+karel
+karel++
+kee
+keep
+key
+keyboard
+keypad
+keyword
+kif
+kind
+kixtart
+klerer-may system
+knowledge
+kodu
+kojo
+kotlin
+krc
+krl
+krl (kuka robot language)
+krypton
+ksh
+l
+labview
+ladder
+lagoona
+landscape
+lansa
+laptop
+laser
+lasso
+latex
+lava
+layout
+lc-3
+learning
+learning
+leda
+legoscript
+lil
+lilypond
+limbo
+limnor
+linc
+lingo
+link
+lis
+lisa
+lisaac
+lisp – iso/iec 13816
+listserv
+lite-c
+literate
+lithe
+little b
+livecode
+livescript
+lll
+load
+login
+logo
+logoff
+logtalk
+lotusscript
+lpc
+lse
+lsl
+lua
+lucid
+lustre
+lyapas
+lynx
+m#
+m2000
+m2001
+m4
+machine code
+mad (michigan algorithm decoder)
+mad/i
+magik
+magma
+mainframe
+make
+maple
+mapper (now part of bis)
+market
+mark-iv (now vision:builder)
+mary
+masm microsoft assembly x86
+master
+material
+mathcad
+mathematica
+math-matic
+matlab
+matrix
+maude system
+max (max msp – graphical programming environment)
+maxima (see also macsyma)
+maxscript internal language 3d studio max
+maya (mel)
+mcode
+mdl
+measurement
+media
+media 
+megabyte
+memory
+mercury
+mesa
+message
+messaging
+metafont
+metaquotes language (mql4/mql5)
+method
+mheg-5 (interactive tv programming language)
+microcode
+microscript
+miis
+milk (programming language)
+mimic
+mirah
+miranda
+misuse
+miva script
+ml
+model 204
+modelica
+modem
+modula
+modula-2
+modula-3
+mohol
+monitor
+moo
+mortran
+mouse
+mouse
+movie
+mpd
+msil – deprecated name for cil
+msl
+multi-tasking 
+mumps
+mupad
+mutan
+mystic programming language (mpl)
+name
+napier88
+nasm
+navigate
+neko
+nemerle
+nesc
+nesl
+net.data
+netlogo
+netrexx
+networks
+new
+newlisp
+newp
+newsgroup
+newspaper 
+newspeak
+newtonscript
+ngl
+nial
+nice
+nickle (nitin)
+nim
+not exactly c (nxc)
+not quite c (nqc)
+npl
+nsis
+nu
+nwscript
+nxt-g
+o:xml
+oak
+oberon
+obj2
+object lisp
+object pascal
+object rexx
+objective-c
+objective-j
+objectlogo
+obliq
+obsession
+ocaml
+occam
+occam-p
+octave
+off-line
+omnimark
+online
+onyx
+opa
+opal
+opencl
+openedge abl
+openvera
+operate
+operating 
+operation
+opl
+opportunity
+ops5
+optic
+optimj
+option
+opt-out
+orc
+orca/modula-2
+oriel
+orwell
+output
+overall
+overhead
+oxygene
+oz
+p
+p#
+p''
+page
+page
+parasail (programming language)
+pari/gp
+pascal – iso 7185
+password
+pcastl
+pcf
+pdl
+pearl
+peoplecode
+performance
+perl
+perl 6
+personal
+pharo
+phishing
+phone
+photography
+php
+pico
+picolisp
+pict
+pig (programming tool)
+pike
+pikt
+pilot
+pipelines
+pixel
+pizza
+pl/0
+pl/b
+pl/c
+pl/i – iso 6160
+pl/m
+pl/p
+pl/sql
+pl-11
+pl360
+planc
+plankalkül
+planner
+plex
+plexil
+plus
+pop-11
+pop-2
+popularity
+portable
+positive
+postscript
+powerbuilder – 4gl gui application generator from sybase
+powerhouse
+powershell
+ppl
+printer
+privacy
+pro*c
+problems
+processing
+processing.js
+processor
+product
+program
+programmer
+prograph
+proiv
+project
+projector
+prolog
+promal
+promela
+promote
+prose modeling language
+protel
+protocol
+providex
+public 
+pure
+pure data
+purebasic
+purge 
+python
+q (equational programming language)
+q (programming language from kx systems)
+q# (microsoft programming language)
+qalb
+qpl
+qtscript
+quakec
+quality
+quantity
+query
+questions
+queue
+quick
+r
+r++
+racket
+radio
+random
+ranking
+rapid
+rapira
+rate
+ratfiv
+ratfor
+rc
+reason
+rebol
+record
+red
+redcode
+refal
+refer
+reference
+registry
+regulate
+reia
+relevancy
+remote
+repair
+reproduce
+research
+reserve
+resolution
+resource
+retrieval
+return 
+revenue
+review
+rexx
+ring
+rlab
+rom 
+roop
+rpg
+rpl
+rsl
+rtl/2
+ruby
+runescript
+rust
+s
+s/sl
+s2
+s3
+sabretalk
+sa-c
+safety
+sail
+salsa
+sam76
+sas
+sasl
+satellite
+sather
+save
+saver
+sawzall
+sbl
+scala
+scan
+scheme
+scilab
+scratch
+screen
+screen 
+script
+script.net
+search
+search 
+security
+sed
+seed7
+select
+self
+sender
+sensetalk
+sequencel
+serpent
+setl
+share
+signal
+simple
+simpol
+simscript
+simula
+simulink
+singularity
+sisal
+skills
+s-lang
+slip
+small
+smalltalk
+sml
+snap!
+snobol(spitbol)
+snowball
+software
+sol
+solidity
+sophaeros
+source
+sp/k
+spam
+spark
+specialist
+speed
+speedcode
+spin
+s-plus
+sps
+spy-ware
+sqr
+squad
+squeak
+squirrel
+sr
+stackless python
+starlogo
+stata
+stateflow
+statistics
+store
+strand
+strongtalk
+subtext
+supercollider
+supertalk
+support
+surf
+swift (apple programming language)
+swift (parallel scripting language)
+symbol
+sympl
+synccharts
+system
+system
+systemverilog
+t
+tacl
+tacpol
+tads
+tal
+tcl
+tea
+tech
+technology
+technophobic
+teco
+telcomp
+telecommunication
+telemarketer
+telephone
+television
+terminal
+terms
+tex
+tex
+tie
+timber
+tmg, compiler-compiler
+toi
+tom
+tom
+tools
+topic
+topspeed
+tpu
+trac
+track
+trackball
+transcript
+t-sql
+ttcn
+ttm
+turing
+tutor
+txl
+typescript
+ubercode
+ucsd pascal
+umple
+uncover
+understanding
+unicon
+uniface
+unity
+universe basic
+unix shell
+unrealscript
+unusual
+up
+up
+update
+upload
+user-friendly
+userid
+username
+usual 
+vala
+value
+variety
+various
+verilog
+video
+video 
+viper
+virtual
+virus
+vision
+visual 
+visual basic
+visual basic .net
+visual dataflex
+visual dialogscript
+visual fortran
+visual foxpro
+visual j#
+visual j++
+visual lisp
+visual objects
+visual prolog
+vsxu
+vvml (verification validation mark-up language
+vvvv
+warranty
+watfiv, watfor
+wave
+web
+web 
+web 
+webdna
+webql
+website
+whiley
+wide 
+winbatch
+windows
+wireless
+wolfram language
+word
+world 
+worldwide
+wyvern
+x++
+x10
+xbl
+xc (exploits xmos architecture)
+xharbour
+xl
+xojo
+xotcl
+xpl
+xpl0
+xquery
+xsb
+xsharp
+xslt – see xpath
+xtend
